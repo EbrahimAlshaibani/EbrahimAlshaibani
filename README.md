@@ -14,6 +14,8 @@ Coding
 
 Connect with me:
 https://www.linkedin.com/in/ebrahim-al-shaibani-66532a238/
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 Languages and Tools:
 android bootstrap csharp css3 dart firebase flutter git html5 illustrator java linux mysql oracle php spring xd
