@@ -12,7 +12,7 @@
 
 📄 Know about my experiences & projects https://www.eshaibani.com
 
-<h2>Connect with me:</h2>
+<h2>Contact with me:</h2>
 <p align="left" dir="auto">
     <a href="https://www.linkedin.com/in/ebrahim-al-shaibani-66532a238/" rel="nofollow">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" style="max-width: 100%;">
