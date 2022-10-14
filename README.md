@@ -13,12 +13,25 @@
 📄 Know about my experiences & projects https://www.eshaibani.com
 
 <h2>Connect with me:</h2>
-https://www.linkedin.com/in/ebrahim-al-shaibani-66532a238/
 <p align="left" dir="auto">
-    <a href="https://developer.android.com" rel="nofollow">
+    <a href="https://www.linkedin.com/in/ebrahim-al-shaibani-66532a238/" rel="nofollow">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" style="max-width: 100%;">
     </a>
-
+    <a href="https://api.whatsapp.com/send?phone=967738797919&text=Hello%20Ebrahim" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100004767856084"  rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://www.instagram.com/e.shaibani" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://twitter.com/E_h_shaibani" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
+    </a>
+    <a href="https://t.me/e_h_shaibani" rel="nofollow">
+        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="telegram" width="40" height="40" style="max-width: 100%;">
+    </a>
 </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
