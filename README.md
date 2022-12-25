@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ebrahim Alshaibani</h1>
+<h1>Hi 👋, I'm Ebrahim Hasan Alshaibani</h1>
 <h2>A web & mobile developer</h2>
 <p>Coding</p>
 
