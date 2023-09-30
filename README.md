@@ -47,6 +47,7 @@
     <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
