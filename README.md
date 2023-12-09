@@ -42,6 +42,7 @@
 <p align="left" dir="auto">
     <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;">
     <a href="https://reactjs.org" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
+         <a href="https://vuejs.org" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://laravel.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" style="max-width: 100%;"> </a>
     <a href="https://developer.android.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
