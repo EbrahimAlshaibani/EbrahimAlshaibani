@@ -1,16 +1,16 @@
 <h1>Hi 👋, I'm Ebrahim Hasan Alshaibani</h1>
-<h2>A web & mobile developer</h2>
+<h2>A full-stack developer</h2>
 <p>Coding</p>
 
-🔭 I’m currently working on Reporting Management System
+🔭 I’m currently working in Together Information Technology Solutions 
 
-🌱 I’m currently learning Laravel, ReactJs
+🌱 I’m currently learning VueJS
 
-💬 Ask me about Java, Android, Laravel , Kotlin , PHP
+💬 Ask me about Java, Flutter, Laravel , Django ,ReactJs
 
-📫 How to reach me ebrahim@eshaibani.com
+📫 How to reach me +967 777 84 87 82 or ebrahim@eshaibani.com
 
-📄 Know about my experiences & projects https://www.eshaibani.com
+📄 Know about my experiences & projects https://eshaibani.com
 
 <h2>Contact with me:</h2>
 <p align="left" dir="auto">
