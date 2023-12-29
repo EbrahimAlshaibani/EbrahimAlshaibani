@@ -23,7 +23,7 @@
     <a href="https://www.facebook.com/profile.php?id=100004767856084"  rel="nofollow">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" width="40" height="40" style="max-width: 100%;">
     </a>
-    <a href="https://www.instagram.com/e.shaibani" rel="nofollow">
+    <a href="https://www.instagram.com/ebrahim_.hasan" rel="nofollow">
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40" style="max-width: 100%;">
     </a>
     <a href="https://twitter.com/E_h_shaibani" rel="nofollow">
