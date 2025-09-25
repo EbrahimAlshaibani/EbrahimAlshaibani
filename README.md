@@ -19,8 +19,6 @@ Keep sections short & skimmable. Update "Now" and "Focus" quarterly.
 
 ---
 
-## TL;DR
-
 I build **production-grade platforms** with Django, scale them on **solid DevOps**, and lead teams to ship **measurable business value**. I enjoy taking complex domains (education ERP, logistics/shipping, finance) and turning them into **clear architectures** with **clean admin UX** and **automation** end-to-end.
 
 - 🧭 **Role:** Senior Software Engineer & Engineering Manager  
