@@ -1,73 +1,152 @@
-<h1>Hi 👋, I'm Ebrahim Hasan Alshaibani</h1>
-<h2>A full-stack developer</h2>
-<p>Coding</p>
+<!--
+Profile README — Ebrahim Hasan Alshaibani
+Keep sections short & skimmable. Update "Now" and "Focus" quarterly.
+-->
 
-🔭 I’m currently working in Together Information Technology Solutions 
+<h1 align="center">Hi, I'm Ebrahim (إبراهيم) — Senior Software Engineer & Builder</h1>
 
-🌱 I’m currently learning VueJS
-
-💬 Ask me about Java, Flutter, Laravel , Django ,ReactJs
-
-📫 How to reach me +967 777 84 87 82 or ebrahim@eshaibani.com
-
-📄 Know about my experiences & projects https://eshaibani.com
-
-<h2>Contact with me:</h2>
-<p align="left" dir="auto">
-    <a href="https://www.linkedin.com/in/ebrahim-al-shaibani-66532a238/" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=967738797919&text=Hello%20Ebrahim" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100004767856084"  rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="facebook" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://www.instagram.com/ebrahim_.hasan" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://twitter.com/E_h_shaibani" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40" style="max-width: 100%;">
-    </a>
-    <a href="https://t.me/e_h_shaibani" rel="nofollow">
-        <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="telegram" width="40" height="40" style="max-width: 100%;">
-    </a>
-</p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h2>Languages and Tools:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimAlshaibani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EbrahimAlshaibani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=EbrahimAlshaibani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<p align="left" dir="auto">
-    <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;">
-    <a href="https://reactjs.org" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
-         <a href="https://vuejs.org" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://laravel.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" style="max-width: 100%;"> </a>
-    <a href="https://developer.android.com" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://dart.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" alt="dart" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="max-width: 100%;"> </a>
-    <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;"> </a> 
-    <a href="https://flutter.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="flutter" width="40" height="40" data-canonical-src="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> 
-    <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> 
-    <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.oracle.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
-    <a href="https://spring.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>
-</p>
-
-## *>_Have_Fun*. 
 <p align="center">
-    <img alt="contribution snake" width="95%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
+  <b>Django & DevOps • Product Engineering • Technical Leadership</b><br/>
+  Sana'a, Yemen (UTC+03:00) • English / عربي
 </p>
+
+<p align="center">
+  <a href="https://github.com/your-username?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/your-username?style=flat&label=Followers"></a>
+  <a href="https://github.com/your-username"><img alt="Stars" src="https://img.shields.io/github/stars/your-username?style=flat&label=Stars"></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Django%20%7C%20ERP%20%7C%20Logistics-blue">
+  <img alt="Learning" src="https://img.shields.io/badge/Learning-MPA%20%7C%20Systems%20Design-brightgreen">
+</p>
+
+---
+
+## TL;DR
+
+I build **production-grade platforms** with Django, scale them on **solid DevOps**, and lead teams to ship **measurable business value**. I enjoy taking complex domains (education ERP, logistics/shipping, finance) and turning them into **clear architectures** with **clean admin UX** and **automation** end-to-end.
+
+- 🧭 **Role:** Senior Software Engineer & Engineering Manager  
+- 🏗️ **Strengths:** Django, Postgres, Redis, Celery, Channels (WebSocket), NGINX/Gunicorn, Docker, S3, CI/CD  
+- 🧪 **Mindset:** performance-first, pragmatic DDD, strong admin workflows, observability, documentation  
+- 🧑‍🏫 **Team:** mentor/train engineers (Together Developer Academy), code reviews, onboarding playbooks
+
+---
+
+## What I’m doing now
+
+- 🚀 **Iqraa — Education ERP:** multi-module Django system (Finance, HR, Stock, Academic, Exams/Control, Library, CRM). Real-time notifications via Channels/Redis, PDF generation (wkhtmltopdf), S3 media, managed Postgres, rclone backups.
+- 📦 **Oboor — Logistics SaaS:** shipping labels, QR tracking, CRM, accounting, multi-tenant architecture.
+- ✈️ **Trust Line:** travel & shipping brand (dual identity), customer portals, integrations roadmap.
+- 🪪 **Al-Shafafiyah:** corporate profile/identity platform (content system + brand assets).
+- 👨‍🏫 **TDA:** train fresh grads/juniors on Python/Django/DRF/Celery/AI tooling with structured curricula.
+
+---
+
+## Engineering Focus
+
+- **Backend (Django/DRF):** domain models, lifecycle hooks (managers / django-lifecycle), admin UX, query tuning (select_related/prefetch_related), signals vs. tasks, validation boundaries.
+- **Async & Real-time:** Celery (Redis/RabbitMQ), Channels for notifications, long-running jobs, idempotency & retries.
+- **Data & Docs:** Postgres, migrations at scale, backup/restore strategy, data exports (PDF/Excel), audit trails.
+- **Ops:** NGINX + Gunicorn/Uvicorn, Docker Compose, SSL with Certbot, DigitalOcean, S3, metrics & logs.
+- **Security & Access:** 2FA/OTP, permissions, multi-tenant patterns, domain isolation.
+- **DX & Quality:** CI/CD, code review culture, linting/formatting, reproducible environments.
+
+---
+
+## Selected Projects (high-level)
+
+- **Iqraa ERP (Django + Flutter client)**  
+  Multi-branch, multi-timezone, multi-currency academic ERP. Tight coupling between modules, automation across Finance ↔️ Academic ↔️ Control. WebSocket live notifications, printable reports, and high-volume data ops.
+
+- **Support & Ticketing Suite**  
+  Custom Django app: Ticketing (categories/tags/queues/SLA), Twilio WhatsApp/SMS templates, HTMX-enhanced admin flows, expected resolution logic, Arabic/English flows.
+
+- **Logistics/Shipping Platform (Oboor)**  
+  Labels, QR tracking, status webhooks, partner integrations, accounting sync, role-based portals.
+
+- **Brand/Identity Platforms**  
+  Structured content, media pipelines, SVG/PNG asset workflows, i18n, SEO-ready builds.
+
+---
+
+## Tech I use daily
+
+**Languages & Frameworks:** Python, Django, DRF, HTMX (admin UX), Java/Flutter/React/Vue (as needed)  
+**DB & Caching:** PostgreSQL, Redis  
+**Async/RT:** Celery (Redis/RabbitMQ), Django Channels  
+**Infra:** Linux, NGINX, Gunicorn/Uvicorn, Docker, DigitalOcean, S3-compatible storage  
+**Build & Ops:** rclone (GDrive backups), cron, wkhtmltopdf, SMTP (Zoho), CI/CD  
+**Productivity:** GitHub Projects/PR reviews, architectural docs, runbooks, postmortems
+
+---
+
+## How I work
+
+- **Architecture first.** Use domain maps and pseudo-schemas before code.  
+- **Admin matters.** Faster/cleaner admin = faster operations & happier clients.  
+- **Measure & iterate.** Profilers, SQL inspectors, and logging guide every “optimization.”  
+- **Bilingual delivery.** Arabic/English UI/Docs; RTL/LTR aware.  
+- **Mentor by doing.** Pair programming, actionable PR feedback, deliberate practice.
+
+---
+
+## Open to
+
+- 🎯 **Consulting/Reviews:** Django performance audits, migrations at scale, admin UX refactors.  
+- 🧩 **Integrations:** payments, SMS/WhatsApp, shipping, S3, reporting stacks.  
+- 🧑‍🎓 **Mentorship:** backend career roadmaps, team onboarding, code review systems.
+
+---
+
+## Contact
+
+- 📫 **Email:** info@togits.com  
+- 💬 **LinkedIn:** (add link)  
+- 🌐 **Website/Portfolio:** (add link)  
+- 🐦 **X/Twitter:** (optional)
+
+---
+
+## GitHub at a glance
+
+> (These cards update automatically; replace `your-username`.)
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=your-username&theme=default&hide_border=true">
+</p>
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true">
+</p>
+
+---
+
+# عربي
+
+## نبذة سريعة
+
+أنا **مهندس برمجيات أول** أقود بناء منصّات إنتاجية باستخدام **Django** وبنية تشغيلية موثوقة. أحب تحويل المجالات المعقّدة (المدارس/الجامعات، اللوجستيات، المالية) إلى **هندسة واضحة** وتجربة **لوحة تحكم/Admin** قوية مع أتمتة شاملة.
+
+- 🧭 **الدور:** مهندس برمجيات أول ومدير فريق  
+- 🏗️ **القوّة:** Django، Postgres، Redis، Celery/Channels، NGINX/Gunicorn، Docker، S3، CI/CD  
+- 🧑‍🏫 **الفريق:** تدريب الخريجين والجونيورز، مراجعة الأكواد، مسارات ترقية واضحة
+
+## الآن
+
+- **إقرأ — نظام ERP تعليمي** متعدد الوحدات والفروع والعملات، تكامل عميق بين المالية والقبول والكنترول، إشعارات لحظية، تقارير PDF/Excel، نسخ احتياطي تلقائي.  
+- **عبور — منصة لوجستية** للشحن وتتبع الشحنات والـ CRM والمحاسبة.  
+- **ترست لاين** بهوية مزدوجة (سياحة/شحن) وخارطة تكاملات.  
+- **الشفافية** لإدارة البروفايلات المؤسسية والهوية.  
+- **أكاديمية المطوّر** لتأهيل المطوّرين عمليًا.
+
+## كيف أعمل
+
+- **تصميم نطاقي قبل التنفيذ.**  
+- **لوحة الإدارة أولوية.**  
+- **قياس ثم تحسين.**  
+- **ثنائية اللغة ودعم RTL.**  
+- **توجيه بالتطبيق العملي.**
+
+## تواصل
+
+**البريد:** info@togits.com • **LinkedIn/الموقع:** (أضف الروابط)
+
+---
+
+> If my work resonates with your product or team, let’s talk. I love turning real-world constraints into elegant, reliable systems.
