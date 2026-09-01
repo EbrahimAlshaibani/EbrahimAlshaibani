@@ -105,9 +105,9 @@ I build **production-grade platforms** with Django, scale them on **solid DevOps
 
 ## GitHub at a glance
 
-> (These cards update automatically; replace `your-username`.)
+> 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=your-username&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=EbrahimAlshaibani&theme=default&hide_border=true">
 </p>
 
 ---
