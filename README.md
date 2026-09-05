@@ -11,8 +11,8 @@ Keep sections short & skimmable. Update "Now" and "Focus" quarterly.
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/your-username?style=flat&label=Followers"></a>
-  <a href="https://github.com/your-username"><img alt="Stars" src="https://img.shields.io/github/stars/your-username?style=flat&label=Stars"></a>
+  <a href="https://github.com/EbrahimAlshaibani?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/EbrahimAlshaibani?style=flat&label=Followers"></a>
+  <a href="https://github.com/EbrahimAlshaibani"><img alt="Stars" src="https://img.shields.io/github/stars/EbrahimAlshaibani?style=flat&label=Stars"></a>
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Django%20%7C%20ERP%20%7C%20Logistics-blue">
   <img alt="Learning" src="https://img.shields.io/badge/Learning-MPA%20%7C%20Systems%20Design-brightgreen">
 </p>
